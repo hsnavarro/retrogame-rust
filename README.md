@@ -24,3 +24,8 @@ The idea is to implement a game similar to Atari Breakout, just to learn Rust in
 ## Learning Opportunities
 - Profiling (Windows Performance Analyzer)
 - Testing (Rust unit tests, commit only if all tests are ok)
+
+# Project mini-Cloud
+
+The main goal is to stream the game at 60 fps using a Raspberry Pi as a server. 
+The client should only send input, decompress, and decode data from the server. 
