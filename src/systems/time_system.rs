@@ -18,7 +18,7 @@ impl TimeSystem {
             frame_duration: 0.0,
             last_time: last_time,
             scale: 1.0,
-            timer_subsystem,
+            timer_subsystem
         }
     }
 
