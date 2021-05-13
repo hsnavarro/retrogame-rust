@@ -21,6 +21,6 @@ The idea is to implement a game similar to Atari Breakout, just to learn Rust in
  - [ ] Ball collision sound
  - [ ] Background music?
   
-## Learning Oportunities
+## Learning Opportunities
 - Profiling (Windows Performance Analyzer)
 - Testing (Rust unit tests, commit only if all tests are ok)
