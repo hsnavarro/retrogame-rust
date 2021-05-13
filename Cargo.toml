@@ -8,4 +8,9 @@ build = "build.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-sdl2 = "0.34.4"
+rand = "0.8.3"
+
+[dependencies.sdl2]
+version = "0.34.4"
+default-features = false
+features = ["gfx"]
